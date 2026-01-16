@@ -1,5 +1,5 @@
 ---
-title: "Son-Ba Giang"
+title: "Manh-Cuong Phan"
 # excerpt: "PhD student investigating bias in expression recognition."
 collection: students
 type: "Engineer Student"
