@@ -13,16 +13,11 @@ I am an Associate Professor at the Hung Yen University of Technology and Educati
 Research Interests
 ====
 Natural Language Processing (NLP)  
-Machine Learning  
+Empathetic Artificial Intelligence (Empathetic AI)
 Legal Artificial Intelligence (Legal AI)  
-Information Extraction  
-Event and Incident Analysis  
-Business Intelligence  
-Text Summarization and Question Answering  
 
 Research Application Areas of Interest
 ====
 Law and Judicial Systems  
-Safety, Risk Management, and Incident Prevention  
 Business and Enterprise Analytics  
 Education and Academic Knowledge Systems  
