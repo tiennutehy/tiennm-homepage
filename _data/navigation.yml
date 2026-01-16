@@ -1,10 +1,13 @@
 # main links links
 main:
+  - title: "Curriculum Vitae"
+    url: /curriculum/
+
   - title: "Students"
     url: /students/
     
-  - title: "Datasets"
-    url: /datasets/
+  # - title: "Datasets"
+  #   url: /datasets/
 
   - title: "Research"
     url: /research/
