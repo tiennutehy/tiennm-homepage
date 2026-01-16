@@ -46,14 +46,10 @@ toc_icon: "file-alt"
 
 ## Research Projects
 
-* **"A Study of Deep Learning for Automatic Question Generation"**
-  * *Code:* B2024-SKH-01 (2024)
-* **"A Study of Information Extraction for Digitalization"**
-  * *Code:* UTEHY.2022.02 (Key project, 2022-2023)
-* **"An Investigation of Machine Learning Techniques for Information Extraction"**
-  * *Code:* UTEHY.2021.08 (Key project, 2021-2022)
-* **"A Study of Machine Learning for Document Assessment and Understanding"**
-  * *Code:* UTEHY.L.2020.04 (Key project, 2020-2021)
+* **"A Study of Deep Learning for Automatic Question Generation"** - B2024-SKH-01 (2024)
+* **"A Study of Information Extraction for Digitalization"** - UTEHY.2022.02 (Key project, 2022-2023)
+* **"An Investigation of Machine Learning Techniques for Information Extraction"** - UTEHY.2021.08 (Key project, 2021-2022)
+* **"A Study of Machine Learning for Document Assessment and Understanding"** - UTEHY.L.2020.04 (Key project, 2020-2021)
 
 ## Awards & Honors
 
@@ -68,7 +64,7 @@ toc_icon: "file-alt"
 ## Academic Service
 
 **Program Committee Member**
-* ACL ARR, AAAI, NAACL, COLING-LREC, ECAI, CIKM, IJCNN, PACLIC, PACLING, LREC, ICCCI, KSE, SoICT, ICTA, ISDS, SCIDOCA.
+* ACL ARR, AAAI, NAACL, COLING-LREC, ECAI, CIKM, IJCNN, PACLIC, PACLING, LREC.
 
 **Journal Reviewer**
 * Knowledge-based Systems
