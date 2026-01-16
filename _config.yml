@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Minh-Tien Nguyen, Professor"
+  name             : "Minh-Tien Nguyen, Associate Professor"
   avatar           : "TienNM.png"
   bio              : "Associate Professor, Computer Science & Engineering"
   location         : "Hung Yen, Viet Nam"
@@ -203,6 +203,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   sponsors:
+    output: true
+    permalink: /:collection/:path/
+  curriculum:
     output: true
     permalink: /:collection/:path/
 

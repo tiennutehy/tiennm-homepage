@@ -1,6 +1,6 @@
 ---
 title: "Son-Ba Giang"
-excerpt: "PhD student investigating bias in expression recognition."
+# excerpt: "PhD student investigating bias in expression recognition."
 collection: students
 type: "Engineer Student"
 link: #https://www.linkedin.com/in/anis-elebiary/
