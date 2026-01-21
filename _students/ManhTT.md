@@ -1,6 +1,6 @@
 ---
 title: "Tien-Manh Tran"
-excerpt: "Senior Data Scientist at AI Academy."
+excerpt: "Senior Data Scientist at XanhSM."
 collection: students
 status: "old"
 type: "Master Student"
