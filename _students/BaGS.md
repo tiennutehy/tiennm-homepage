@@ -1,6 +1,6 @@
 ---
 title: "Son-Ba Giang"
-# excerpt: "PhD student investigating bias in expression recognition."
+excerpt: "Senior AI Engineer at AI Academy."
 collection: students
 status: "old"
 type: "Engineer Student"

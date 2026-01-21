@@ -1,6 +1,6 @@
 ---
 title: "Huu-Loi Le"
-# excerpt: "PhD student investigating latent space representations of emotion."
+excerpt: "Senior AI Engineer at AI Academy."
 collection: students
 type: "Engineer Student"
 status: "old"

@@ -1,5 +1,5 @@
 ---
-title: "Manh-Cuong Phan"
+title: "Trinh-Hoai-An Duong"
 excerpt: "Junior AI Engineer at AI Academy."
 collection: students
 type: "Engineer Student"

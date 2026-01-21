@@ -1,6 +1,6 @@
 ---
 title: "Tien-Manh Tran"
-# excerpt: "PhD student investigating latent space representations of emotion."
+excerpt: "Senior Data Scientist at AI Academy."
 collection: students
 status: "old"
 type: "Master Student"
