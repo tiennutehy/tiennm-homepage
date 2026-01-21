@@ -1,13 +1,39 @@
 ---
 layout: archive
-title: "Current Students"
+title: "Our Students"
 permalink: /students/
 author_profile: true
 ---
 
 {% include base_path %}
 
-{% for post in site.students %}
-  {% include archive-single.html %}
-{% endfor %}
+{% assign current_students = site.students | where: "status", "current" %}
+{% assign old_students = site.students | where: "status", "old" %}
+{% assign undergrad_students = site.students | where: "status", "undergrad" %}
 
+## Current Students
+{% if current_students.size > 0 %}
+  {% for post in current_students %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% else %}
+  <p>No current students listed.</p>
+{% endif %}
+
+## Old Students (Alumni)
+{% if old_students.size > 0 %}
+  {% for post in old_students %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% else %}
+  <p>No alumni listed.</p>
+{% endif %}
+
+## Undergraduate Students
+{% if undergrad_students.size > 0 %}
+  {% for post in undergrad_students %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% else %}
+  <p>No undergraduate students listed.</p>
+{% endif %}
