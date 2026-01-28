@@ -1,6 +1,6 @@
 ---
 title: "Tien-Manh Tran"
-excerpt: "Senior Data Scientist at XanhSM."
+excerpt: "Senior Data Scientist at XanhSM,  VínSmart Future."
 collection: students
 status: "old"
 type: "Master Student"

@@ -5,6 +5,6 @@ collection: students
 status: "current"
 type: "Phd Student"
 link: #https://www.linkedin.com/in/anis-elebiary/
-venue: "Hung Yen University of Technology and Education"
-location: "Hung Yen, Viet Nam"
+venue: "PhD Student, University of Engineering and Technology (UET)"
+location: "Vietnam National University, Hanoi (VNUH)"
 ---
