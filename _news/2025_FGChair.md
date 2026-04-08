@@ -6,4 +6,4 @@ type: "News"
 link: https://fg2025.ieee-biometrics.org/
 venue: "Face and Gesture Rcognition, 2025"
 location: "ClearWater, FL"
---- -->
+--- -->-0
