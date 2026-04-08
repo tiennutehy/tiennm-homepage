@@ -1,6 +1,6 @@
 ---
 title: "ACL Paper Accepted"
-excerpt: "CMTD: Cognitive Modeling with Traits and Distortions for Multimodal Emotion Recognition in Conversations."
+excerpt: "ViLegalLM: Language Models for Vietnamese Legal Text."
 collection: news
 type: "News"
 link: https://2026.aclweb.org/
